@@ -2,6 +2,11 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
+## Site Layout
+For a description of the directory structure and how everything works see the [Guide](https://academicpages.github.io/markdown/). The same file can also be found in ```_pages/markdown.md```.
+
+The ```includes``` directory also has a number of [Liquid](https://shopify.github.io/liquid/tags/control-flow/) scripts for generating pages. 
+
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Instructions
