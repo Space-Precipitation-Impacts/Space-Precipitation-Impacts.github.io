@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /research
 title: "Research"
 excerpt: "Research Topics"
 author_profile: true

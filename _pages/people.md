@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /people/
 title: "People"
 excerpt: "Our Group"
 author_profile: true
