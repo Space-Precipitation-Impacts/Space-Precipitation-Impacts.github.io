@@ -1,5 +1,5 @@
 ---
-title: 'SPI our team: ISSI'
+title: 'SPI our team: Magnetospheric Seminar'
 date: 2021-09-13
 permalink: /posts/2021/09/spi-our-team-20210913/
 tags:
