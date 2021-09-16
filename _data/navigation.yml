@@ -3,6 +3,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "News & Events"
+    url: /year-archive/
+ 
   - title: "Research"
     url: /research/
 
@@ -18,8 +21,6 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "News and Events"
-    url: /year-archive/
        
 #  - title: "Guide"
 #    url: /markdown/
