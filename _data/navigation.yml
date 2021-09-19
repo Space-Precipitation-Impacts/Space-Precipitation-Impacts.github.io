@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "News & Events"
-    url: /year-archive/
- 
   - title: "Research"
     url: /research/
+
+  - title: "News & Events"
+    url: /year-archive/
 
   - title: "People"
     url: /people/
