@@ -1,7 +1,7 @@
 ---
 title: 'SPI Equity: ELSP'
-date: 2021-09-20
-permalink: /posts/2021/09/spi-equity-20210920/
+date: 2021-09-21
+permalink: /posts/2021/09/spi-equity-20210921/
 tags:
   - Equity
   - Honors
