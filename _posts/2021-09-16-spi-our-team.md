@@ -7,6 +7,7 @@ tags:
   - Van Allen Probes
   - Collaborations
   - Drivers
+  - SPI our team
 ---
 
 SPI our team at the Space and Cosmic Ray Physics Online Seminar
