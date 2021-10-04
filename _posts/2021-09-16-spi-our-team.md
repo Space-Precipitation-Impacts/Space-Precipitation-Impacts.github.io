@@ -8,6 +8,7 @@ tags:
   - Collaborations
   - Drivers
   - SPI our team
+  - Kanekal
 ---
 
 SPI our team at the Space and Cosmic Ray Physics Online Seminar
