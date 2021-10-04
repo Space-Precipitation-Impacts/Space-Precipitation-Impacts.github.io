@@ -7,6 +7,7 @@ tags:
   - collaborations
   - Blum
   - Drivers
+  - SPI our team
 ---
 
 SPI our team at the Magnetosphere Seminar
