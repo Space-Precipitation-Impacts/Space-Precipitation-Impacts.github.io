@@ -7,6 +7,7 @@ tags:
   - collaborations
   - ISSI
   - Drivers
+  - SPI our team
 ---
 
 SPI our team at ISSI
