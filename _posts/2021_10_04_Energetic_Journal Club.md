@@ -8,6 +8,7 @@ tags:
   - proton precipitation
   - electromagnetic ion cyclotron waves
   - Aurora
+  - SPI reads
 ---
 
 SPI Energetic Particle Journal Club: Isolated Proton Aurora Driven by EMIC Pc1 Wave: PWING, Swarm, and NOAA POES Multi-Instrument Observations by Kim 
