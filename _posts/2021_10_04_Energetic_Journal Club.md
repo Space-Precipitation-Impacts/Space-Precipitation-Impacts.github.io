@@ -13,7 +13,7 @@ tags:
 
 SPI Energetic Particle Journal Club: Isolated Proton Aurora Driven by EMIC Pc1 Wave: PWING, Swarm, and NOAA POES Multi-Instrument Observations by Kim 
 ====
-Most weeks we have an Journal Club focused on papers written about energetic particle precipiation run by SPI Team member Ashley Greeley. This week we read a paper by Kim et al titled Isolated proton aurora driven by EMIC Pc1 wave: PWING, Swarm, and NOAA POES multi-instrument observations. This paper looks at three events where proton aurora and PC1 or Electromagnetic Ion Cycltron waves were observed showing data from multiple observational platforms. By using so many platforms we are able to get a better picture of what is going on in the magnetosphere, and when and why we see these two phenomena together. If you want to keep up with what we are reading make sure to check back regularly! 
+Most weeks we have a journal club focused on papers written about energetic particle precipiation run by SPI Team member Ashley Greeley. This week we read a paper by Kim et al titled [Isolated proton aurora driven by EMIC Pc1 wave: PWING, Swarm, and NOAA POES multi-instrument observations](https://doi.org/10.1029/2021GL095090). This paper looks at three events where proton aurora and PC1 or Electromagnetic Ion Cycltron waves were observed showing data from multiple observational platforms. By using so many platforms we are able to get a better picture of what is going on in the magnetosphere, and when and why we see these two phenomena together. If you want to keep up with what we are reading make sure to check back regularly! 
 
 
 Citation
