@@ -15,3 +15,6 @@ SPI is an interdisciplinary and cross-institutional research group focused on st
 (B) How does the amount of low, medium, and high energy ion and electron precipitation change with varying physical drivers under different solar wind and geomagnetic conditions?
 
 (C) What effect does precipitation have on satellite drag, and how does this vary with the dynamics of solar wind driving and geomagnetic activity?
+
+
+Our Code of Conduct and Shared values will help us make sure we have strong collaborative teams. [Read more about them here](Code-of-conduct.md). 
