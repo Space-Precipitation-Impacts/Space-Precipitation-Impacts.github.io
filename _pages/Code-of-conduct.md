@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /_pages/Code-of-conduct/
 title: "Space Precipitation Impacts (SPI)"
 excerpt: "Code of Conduct"
 author_profile: true
