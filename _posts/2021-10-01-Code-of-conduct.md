@@ -1,7 +1,7 @@
 ---
 title: "Code of Conduct"
 date: 2021-10-01
-permalink: /posts/2021/10/code-of-conduct/
+permalink: /posts/2021/10/coc-20211001/
 tags: 
   - code of conduct
 ---
