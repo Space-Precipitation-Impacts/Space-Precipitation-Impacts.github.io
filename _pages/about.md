@@ -17,4 +17,4 @@ SPI is an interdisciplinary and cross-institutional research group focused on st
 (C) What effect does precipitation have on satellite drag, and how does this vary with the dynamics of solar wind driving and geomagnetic activity?
 
 
-Our Code of Conduct and Shared values will help us make sure we have strong collaborative teams. [Read more about them here](https://github.com/Space-Precipitation-Impacts/Space-Precipitation-Impacts.github.io/blob/master/_pages/Code-of-conduct.md). 
+Our Code of Conduct and Shared values will help us make sure we have strong collaborative teams. [Read more about them here](https://space-precipitation-impacts.github.io/posts/2021/10/code-of-conduct/). 
