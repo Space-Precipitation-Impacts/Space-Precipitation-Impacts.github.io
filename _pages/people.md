@@ -10,12 +10,12 @@ redirect_from:
 
 {% assign file = site.data.personnel %}
 
-<div class="display compact" style="height:100%; width:75%; font-size:16px; overflow:auto;">
+<div class="display compact" style="height:100%; width:75%; font-size:18px; overflow:auto;">
 
 <table id="catalogue" class="display">
 <thead>
 <tr class="header">
-<th style="font-size: 16px" data-sort>Personnel</th>
+<th style="font-size: 16px" data-sort>SPI Personnel</th>
 <th style="font-size: 16px">Institution</th>
 <th style="font-size: 16px">Role</th>
 
