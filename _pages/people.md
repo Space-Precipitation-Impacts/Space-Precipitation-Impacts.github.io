@@ -10,9 +10,6 @@ redirect_from:
 
 {% assign file = site.data.personnel %}
 
-# SPI Personnel
-
-
 <div class="display compact" style="height:100%; width:75%; font-size:16px; overflow:auto;">
 
 <table id="catalogue" class="display">
